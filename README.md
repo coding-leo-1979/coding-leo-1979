@@ -22,5 +22,5 @@
 <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/-?style=flat&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/-?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-000000?style=flat&logo=Render&logoColor=white"/>

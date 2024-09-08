@@ -1,6 +1,6 @@
 # ✨Bae Yejin✨
 <b>숙명여자대학교 컴퓨터과학전공 22학번</b>
-<p>SISS 23기</p>
+<p>SISS 23기 - 2024 웹 학술부장</p>
 <p>FORZA 26기</p>
 <p>Codeit Boost Backend 1기</p>
 <p>Hacking Camp 26회, 27회, 28회, 29회 CTF 출제자</p>

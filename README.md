@@ -4,6 +4,7 @@
 <p>FORZA 26기</p>
 <p>Codeit Boost Backend 1기</p>
 <p>Hacking Camp 26회, 27회, 28회, 29회 CTF 출제자</p>
+<p>Chartmetric - Product Engineer Intern (2025.06.30 ~ )</p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=renne1017)](https://solved.ac/renne1017/)
 

@@ -1,4 +1,4 @@
-# ✨Bae Yejin✨
+# ✨Yejin Bae✨
 <b>숙명여자대학교 컴퓨터과학전공 22학번</b>
 <p>SISS 23기 - 2024 웹 학술부장</p>
 <p>FORZA 26기</p>

@@ -1,40 +1,11 @@
 # ✨Yejin Bae✨
 
-<p>
-  <span style="font-size:1.2em;">Sookmyung Women's University, Computer Science 22</span>
-  <br/>
-  숙명여자대학교 컴퓨터과학전공 22
-</p>
-
-<p>
-  <span style="font-size:1.2em;">SISS 23rd Term - 2024 Web Academic Head</span>
-  <br/>
-  SISS 23기 - 2024 웹 학술부장
-</p>
-
-<p>
-  <span style="font-size:1.2em;">FORZA 26th Term</span>
-  <br/>
-  FORZA 26기
-</p>
-
-<p>
-  <span style="font-size:1.2em;">Codeit Boost Backend 1st Term</span>
-  <br/>
-  Codeit Boost Backend 1기
-</p>
-
-<p>
-  <span style="font-size:1.2em;">Hacking Camp 26th, 27th, 28th, 29th CTF Problem Setter</span>
-  <br/>
-  Hacking Camp 26회, 27회, 28회, 29회 CTF 출제자
-</p>
-
-<p>
-  <span style="font-size:1.2em;">Chartmetric - Product Engineer Intern (2025.06.30 ~ )</span>
-  <br/>
-  
-</p>
+<p>Sookmyung Women's University, Computer Science 22</p>
+<p>SISS 23rd Term - 2024 Web Academic Head</p>
+<p>FORZA 26th Term</span></p>
+<p>Codeit Boost Backend 1st Term</p>
+<p>Hacking Camp 26th, 27th, 28th, 29th CTF Problem Setter</p>
+<p>Chartmetric - Product Engineer Intern (2025.06.30 ~ )</p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=renne1017)](https://solved.ac/renne1017/)
 

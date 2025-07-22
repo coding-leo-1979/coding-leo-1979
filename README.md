@@ -1,7 +1,7 @@
 # ✨Yejin Bae✨
 
 <p>Sookmyung Women's University, Computer Science 22</p>
-<p>SISS 23rd Term - 2024 Web Academic Head</p>
+<p>SISS 23rd Term - 2024 Web Hacking Head</p>
 <p>FORZA 26th Term</span></p>
 <p>Codeit Boost Backend 1st Term</p>
 <p>Hacking Camp 26th, 27th, 28th, 29th CTF Problem Setter</p>

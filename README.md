@@ -7,7 +7,6 @@
 <p>Hacking Camp 26th, 27th, 28th, 29th CTF Problem Setter</p>
 <p>Chartmetric - Product Engineer Intern (2025.06.30 ~ )</p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=renne1017)](https://solved.ac/renne1017/)
 
 # ✨Skills✨
 <!-- Programming Languages -->
